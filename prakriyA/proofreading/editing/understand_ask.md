@@ -1,0 +1,47 @@
++++
+title = "Understand or ask"
++++
+
+Please strive to understand every work and sentence you edit.  
+प्रत्येकं वाक्यम् ऽवगत्य शोधयितुं यतताम्।  
+यत् किञ्चिद् उट्टङ्क्यते, परिष्कृतम् इति वा भाव्यते,  
+तद् (भाषा-मात्र-दृष्ट्या वाप्य्) अवगन्तव्यम्।
+
+## Asking AI
+You can ask questions on https://aistudio.google.com/ and get very good answers. Example prompts with responses [here](/dyugangaa/projects/text/proofreading/editing/AI-prompt/language-help). Procedure for using prompt [here](/dyugangaa/projects/text/proofreading/editing/AI-prompt/).
+
+Advantage: You can ask a 100 questions to the AI, it will answer patiently.
+
+## Asking on discussion board
+- कार्यसम्बन्धे प्रश्नाः, सूचनाः, चर्चाश् च https://github.com/vishvAsa/dyumatsyAH/discussions/categories/q-a इत्यत्रैव भवेयुः। तत्र New discussion इति कीलकं यथापेक्षम् प्रयोक्तव्यं नूतनप्रस्नार्थम्।
+- नित्यं कार्यारम्भात् प्राक् https://github.com/vishvAsa/dyumatsyAH/discussions/ इत्यत्र सन्देशा द्रष्टव्याः। भवत्-सम्बद्धेभ्यः सर्वसम्बद्धेभ्यश्  (👍, 👎, 😄, 🎉, 😕, ❤️, 🚀, 👀) च प्रतिक्रिया अवश्यं देयाः।
+
+<details><summary>On telegram (obsolete)</summary>
+
+If in doubt, ask with pic on telegram (see figure below);  
+and mark the doubtful text with [[??]] sign in the file being edited. 
+
+![](../../images/telegram-doubts.png)
+{title="" class="thumbnail"}
+</details>
+
+
+The doubts will usually be answered on the pull request; following which you'll follow the usual correction + updation [protocol](/dyugangaa/projects/text/git-workflow/5_sUchita-doSha-parihAra-prativachane) .
+
+![](../../images/pull-request-doubt-clarification.png)
+{title="" class="thumbnail"}
+
+## Response codes
+s, स् indicate Yes (= typed text is correct. [[??]]-sign can be removed).
+
+अवधेयम् - उत्तरे स्=s=yes=आम् इति यथास्थानम् अवगन्तव्यम्।  
+?? इत्युक्ते प्रश्नचिह्नं रक्षणीयम् इति क्वचित्, "कुतोऽयं प्रमाद" इत्य् अन्यत्र।
+
+उक्ते परिहारे [[??]]चिह्नं परीक्षकेण न स्थापितं चेत्,  
+पुर्वं स्थापितं [[??]]चिह्नं निष्कासनीयम्।
+
+## Response time
+सन्देश-समय-विषये चिन्ता नास्त्य् एव -  
+यथाऽवकाशं प्रतिवदामि।  
+१ दिनाद् अधिकं विलम्बे सति  
+तु मार्गान्तरेण (वाट्साप्/दूरवाण्य्-आह्वादिभिः) सूचनीयोऽहम्।
