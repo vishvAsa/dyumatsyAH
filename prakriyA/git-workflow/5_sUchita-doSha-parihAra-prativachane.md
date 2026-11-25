@@ -14,7 +14,7 @@ title = "5 सूचित-दोष--परिहार-प्रतिवच�
 
 - अधः XYZ इति यद् अस्ति, तस्य स्थाने स्वीयं github-नाम प्रयुङ्क्ताम्।
   - अथवैतत् प्रयुज्यतां यन्त्रम्: <input id="input_githubUserId" value="XYZ"></input><input id="input_repo" value="REPO"></input><button id="transformId" onclick="handleTransformIdBtnClick();">पाठम् परिवर्तय!!</button>
-- Back to [Git workflow](/dyugangaa/projects/text/git-workflow/?githubUserId=XYZ&repo=REPO)
+- Back to [Git workflow](/dyumatsyAH/prakriyA/git-workflow/?githubUserId=XYZ&repo=REPO)
 </details>
 
 
@@ -49,7 +49,7 @@ title = "5 सूचित-दोष--परिहार-प्रतिवच�
 सावधानम् - अन्यत्र "Files changed" इत्यस्य स्थाने "Conversation" इत्यत्र दृष्टं चेत्,  
 "Load more" इत्यादि नुदित्वा प्रत्येकं सूत्रं प्रतिवाच्यम्। 
 
-s, स्, ?? इत्यादिषु सङ्क्षेपेष्व् अत्र द्रष्टव्यम् - Source: [TW](/dyugangaa/projects/text/proofreading/editing/understand_ask) - "Response codes" इति भागे।
+s, स्, ?? इत्यादिषु सङ्क्षेपेष्व् अत्र द्रष्टव्यम् - Source: [TW](/dyumatsyAH/prakriyA/proofreading/editing/understand_ask) - "Response codes" इति भागे।
 
 ## दोष-परिहारः Correction
 दोषान् परिहृत्य, नुत्त्वा (commit+push कृत्वा),

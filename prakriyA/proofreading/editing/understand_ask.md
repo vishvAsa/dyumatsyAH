@@ -26,7 +26,7 @@ and mark the doubtful text with [[??]] sign in the file being edited.
 </details>
 
 
-The doubts will usually be answered on the pull request; following which you'll follow the usual correction + updation [protocol](/dyugangaa/projects/text/git-workflow/5_sUchita-doSha-parihAra-prativachane) .
+The doubts will usually be answered on the pull request; following which you'll follow the usual correction + updation [protocol](/dyumatsyAH/prakriyA/git-workflow/5_sUchita-doSha-parihAra-prativachane) .
 
 ![](../../images/pull-request-doubt-clarification.png)
 {title="" class="thumbnail"}
