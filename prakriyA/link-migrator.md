@@ -42,25 +42,39 @@ function migrateUrl(input) {
   return { url: u, moved: moved, note: note };
 }
 if (typeof document !== "undefined") {
+  // Delegated listeners + fresh lookups: uiLib rewrites document.body.innerHTML
+  // after load, which silently drops listeners attached directly to elements.
   (function () {
-    var inp = document.getElementById("migInput"),
-      out = document.getElementById("migOutput"),
-      link = document.getElementById("migLink"),
-      note = document.getElementById("migNote");
     function run() {
-      var r = migrateUrl(inp.value);
-      out.value = r.url;
-      note.textContent = r.note;
-      if (r.url) { link.href = r.url; link.textContent = "Open converted URL"; }
-      else { link.removeAttribute("href"); link.textContent = ""; }
+      var inp = document.getElementById("migInput");
+      var r = migrateUrl(inp ? inp.value : "");
+      var out = document.getElementById("migOutput");
+      var note = document.getElementById("migNote");
+      var link = document.getElementById("migLink");
+      if (out) out.value = r.url;
+      if (note) note.textContent = r.note;
+      if (link) {
+        if (r.url) { link.href = r.url; link.textContent = "Open converted URL"; }
+        else { link.removeAttribute("href"); link.textContent = ""; }
+      }
     }
-    document.getElementById("migBtn").addEventListener("click", run);
-    inp.addEventListener("input", run);
-    document.getElementById("migCopy").addEventListener("click", function () {
+    function copyOut() {
+      var out = document.getElementById("migOutput");
+      if (!out) return;
       out.select();
       try { document.execCommand("copy"); } catch (e) {
         if (navigator.clipboard) navigator.clipboard.writeText(out.value);
       }
+    }
+    document.addEventListener("click", function (ev) {
+      var t = ev.target;
+      if (!t || !t.id) return;
+      if (t.id === "migBtn") run();
+      else if (t.id === "migCopy") copyOut();
+    });
+    document.addEventListener("input", function (ev) {
+      var t = ev.target;
+      if (t && t.id === "migInput") run();
     });
   })();
 }
