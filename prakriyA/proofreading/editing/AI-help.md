@@ -26,7 +26,7 @@ See separate [page](../AI-prompt).
 
 
 ## Inside editor
-See images [here](/dyugangaa/projects/text/proofreading/images/AI) to get ideas.
+See images [here](/dyumatsyAH/prakriyA/proofreading/images/AI) to get ideas.
 
 You can get this assistance from within the Vscode or Intellij editor.
 

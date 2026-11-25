@@ -33,7 +33,7 @@ Are you ready?
 
 
 ## English text with sanskrit footnotes
-See: [TW](/content/dyugangaa/projects/text/proofreading/proposed/kANe-instructions)
+See: [TW](/dyumatsyAH/prakriyA/proofreading/proposed/kANe-instructions)
 
 
 

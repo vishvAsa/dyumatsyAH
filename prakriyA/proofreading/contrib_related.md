@@ -8,7 +8,7 @@ Anyone may freely use those and anything else we've collected.
 - Or, one may volunteer labor to proofread such texts, if equipped with time, a computer and ability.
 
 ## Related projects
-Some of our proofreading/ publication efforts target other areas. (Eg. [kalpa-texts](/dyugangaa/projects/text/proofreading/kalpa-texts/), [tattva-texts](/dyugangaa/projects/text/proofreading/tattva-texts/), [kAvya-texts](/dyugangaa/projects/text/proofreading/kAvya-texts/), vyAkaraNa)
+Some of our proofreading/ publication efforts target other areas. (Eg. [kalpa-texts](/dyugangaa/projects/text/searchable-text/kalpa-texts/), [tattva-texts](/dyugangaa/projects/text/searchable-text/tattva-texts/), [kAvya-texts](/dyugangaa/projects/text/searchable-text/kAvya-texts/), vyAkaraNa)
 
 I'm also interested in arranging for long-term (millennium scale) text preservation even for the coming post industrial era - https://rebrand.ly/dg-archive . But no traction - since the right technology (which exists) / interest is not at hand. If you know some one interested in such please connect.
 

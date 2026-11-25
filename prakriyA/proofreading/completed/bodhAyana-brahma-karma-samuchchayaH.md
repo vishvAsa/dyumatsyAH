@@ -20,7 +20,7 @@ Digitize the excellent text, बोधायन-ब्रह्म-कर्म-
 केवलं तादृशं **दीर्घ-सस्वर-पाठं** paragraph-रूपेण पृथक्-कृत्य,  
 स्वरम् उपेक्षमाण आदिमानां ३-४ शब्दानां वर्णान् समीकृत्य,  
 `[[TODO: परिष्कार्यम्]]` इति लिखेत्।  
-(अत्र "दीर्घ"-शब्दस्य निर्वचनम्, [Quotes](/dyugangaa/projects/text/proofreading/editing/markdown/Quotes/) इत्य् अवलोक्य ज्ञायताम्।  
+(अत्र "दीर्घ"-शब्दस्य निर्वचनम्, [Quotes](/dyumatsyAH/prakriyA/proofreading/editing/markdown/Quotes/) इत्य् अवलोक्य ज्ञायताम्।  
 प्रतीकमात्रेषु (=मन्त्राणां द्वित्रेष्व् एव पदेषु) सत्सु , स्वरं स्वयम् परिष्कुर्यात्।)
 
 **पाठ-विन्यासः** (formatting) - अस्मिन्न् अल्पे विषये हि परिष्कर्तारो भ्राम्यन्ति ।  
@@ -29,7 +29,7 @@ Digitize the excellent text, बोधायन-ब्रह्म-कर्म-
 
 - Long video intro (markdown format check, quotes, headers, footnotes, new lines within paragraph,): [R202212](https://youtu.be/opLrf8kAazA)
 - Testing formatting: Use https://stackedit.io/app# 
-- विशिष्य [Quotes](/dyugangaa/projects/text/proofreading/editing/markdown/Quotes/) इत्य् अवधारयतु। 
+- विशिष्य [Quotes](/dyumatsyAH/prakriyA/proofreading/editing/markdown/Quotes/) इत्य् अवधारयतु। 
 - अत्रोदाहरणार्थम् ईक्षताम् - [नवश्राद्धविधिः](https://github.com/vishvAsa/vedAH_yajuH/blob/content/taittirIyam/sUtram/baudhAyanaH/brahma-karma-samuchchayaH/4_pitRmedhakANDam/09_navashrAddhavidhiH.md?plain=1), यस्य मूलपाठो [ऽत्र](https://archive.org/details/BodhayanaBramhakarma/page/n874/mode/1up) । 
 </details>
 

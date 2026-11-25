@@ -8,7 +8,7 @@ Please strive to understand every work and sentence you edit.
 तद् (भाषा-मात्र-दृष्ट्या वाप्य्) अवगन्तव्यम्।
 
 ## Asking AI
-You can ask questions on https://aistudio.google.com/ and get very good answers. Example prompts with responses [here](/dyugangaa/projects/text/proofreading/editing/AI-prompt/language-help). Procedure for using prompt [here](/dyugangaa/projects/text/proofreading/editing/AI-prompt/).
+You can ask questions on https://aistudio.google.com/ and get very good answers. Example prompts with responses [here](/dyumatsyAH/prakriyA/proofreading/editing/AI-prompt/language-help). Procedure for using prompt [here](/dyumatsyAH/prakriyA/proofreading/editing/AI-prompt/).
 
 Advantage: You can ask a 100 questions to the AI, it will answer patiently.
 

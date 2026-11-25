@@ -13,9 +13,9 @@ Welcome! To contribute text corrections, please follow the following linked inst
 
 ## Routine work
 - General editing instructions
-  - Please read and understand [General editing instructions](/dyugangaa/projects/text/proofreading/editing).
+  - Please read and understand [General editing instructions](/dyumatsyAH/prakriyA/proofreading/editing).
     - Especially, please make sure to follow Multi-script proofreading described there (esp. if explicitly asked to do so).
-  - Please read and understand [Markdown formatting instructions](/dyugangaa/projects/text/proofreading/editing/markdown).
+  - Please read and understand [Markdown formatting instructions](/dyumatsyAH/prakriyA/proofreading/editing/markdown).
   - If you have any questions, don't ignore/ pretend - instead ask via telegram, discord or phone. (नावगतं चेन् नावगतम् इति वाच्यं ननु - मौनेन न कस्यचिल् लाभः।)
 - Saving changes
   - NOTE - Always pull latest version (=sync fork) before working on and saving your edits. <u>SHOULD BE DONE ON EVERY WORK-DAY.</u>

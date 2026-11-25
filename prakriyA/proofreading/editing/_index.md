@@ -14,7 +14,7 @@ Our proofreaders follow various workflows to achieve perfect text based on what 
 
 **यान्त्रिक-शोधनम्** - First, use AI LLM to correct 10-20 lines (instructions [here](AI-prompt)). 
 
-- (Note that, depending on the prompt, this may yield sanskrit text with a lot of hyphens and spaces (eg. दीर्घ-सिद्धिस् साध्ये सताम् अस्त्व् इत्य् अवदत्) - let them remain as long as they follow rules mentioned [elsewhere](/dyugangaa/projects/text/proofreading/editing/markdown/Spacing_paragraph-vivekaH).)
+- (Note that, depending on the prompt, this may yield sanskrit text with a lot of hyphens and spaces (eg. दीर्घ-सिद्धिस् साध्ये सताम् अस्त्व् इत्य् अवदत्) - let them remain as long as they follow rules mentioned [elsewhere](/dyumatsyAH/prakriyA/proofreading/editing/markdown/Spacing_paragraph-vivekaH).)
 - This may have already been done. If so, omit this stemp.
 
 Then proceed to manual proofreading below. ततो **मानुष-शोधनम्**॥ In each of the below 2 steps, you should do the following -
@@ -39,7 +39,7 @@ If in our experience, omitting one of the steps (usually the last) does not lead
 ### साधारण-परीक्षण-रीतिः (सं)
 **यान्त्रिक-शोधनम्** - प्रथमं कृत्रिमबुद्ध्या (AI LLM) उपयोगं कृत्वा  
 दशविंशतिपङ्क्तीः शोधयन्तु ([अत्र](AI-prompt) निर्देशाः)।  
-(विशेषतः सूच्यते यत्, यन्त्र-बुद्ध्य्-अनुसारेणैतेन बहुभिः संयोजकचिह्नैः रिक्तस्थानैश्च युक्तः संस्कृतपाठः उत्पद्येत (यथा - "दीर्घ-सिद्धिस् साध्ये सताम् अस्त्व् इत्य् अवदत्") - यावत् तेऽन्यत्र [निर्दिष्टानां](/dyugangaa/projects/text/proofreading/editing/markdown/Spacing_paragraph-vivekaH) नियमानां पालनं कुर्वन्ति, तावत् ते तथैव तिष्ठन्तु।)  
+(विशेषतः सूच्यते यत्, यन्त्र-बुद्ध्य्-अनुसारेणैतेन बहुभिः संयोजकचिह्नैः रिक्तस्थानैश्च युक्तः संस्कृतपाठः उत्पद्येत (यथा - "दीर्घ-सिद्धिस् साध्ये सताम् अस्त्व् इत्य् अवदत्") - यावत् तेऽन्यत्र [निर्दिष्टानां](/dyumatsyAH/prakriyA/proofreading/editing/markdown/Spacing_paragraph-vivekaH) नियमानां पालनं कुर्वन्ति, तावत् ते तथैव तिष्ठन्तु।)  
 पूर्वम् एवेदम् अन्येन कदाचित् कृतं स्यात्। तथा सति, नेदम् पुनः कार्यम्। 
 
 ततो **मानुष-शोधनम्**॥
