@@ -1,0 +1,42 @@
+baseURL = "https://vishvAsa.github.io/dyumatsyAH/"
+languageCode = "en-us"
+title = "द्युमत्स्याः Dyumatsyāḥ"
+theme = "sanskrit-documentation-theme-hugo"
+publishDir = "build_github"
+disablePathToLower = true
+
+[params]
+  githubEditMePathBase = "https://github.com/vishvAsa/dyumatsyAH/edit/content/"
+  contactLink = "https://github.com/vishvAsa/dyumatsyAH/issues/new"
+  build_img = "https://github.com/vishvAsa/dyumatsyAH/actions/workflows/build.yml/badge.svg"
+  build_url = "https://github.com/vishvAsa/dyumatsyAH/actions/workflows/build.yml"
+  env = "production"  
+  # disqusShortcode = "vvasuki-site"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON", "CSV"]
+  section = ["HTML", "RSS", "JSON"]
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+
+[markup.goldmark.parser]
+wrapStandAloneImageWithinParagraph = false
+
+[markup.goldmark.parser.attribute]
+block = true
+title = true
+
+[markup.highlight]
+  anchorLineNos = false
+  codeFences = true
+  guessSyntax = false
+  hl_Lines = ''
+  lineAnchors = ''
+  lineNoStart = 1
+  lineNos = true
+  lineNumbersInTable = true
+  noClasses = true
+  style = 'friendly'
+  tabWidth = 2
