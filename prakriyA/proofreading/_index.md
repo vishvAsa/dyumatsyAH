@@ -1,4 +1,4 @@
 ---
-title: पाठशोधनम्
+title: +पाठशोधनम्
 unicode_script: devanagari
 ---
