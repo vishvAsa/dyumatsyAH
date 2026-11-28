@@ -1,0 +1,96 @@
++AI 	 prakriyA/proofreading/images/AI/
++AI prompt 	 prakriyA/proofreading/editing/AI-prompt/
++Clocking 	 clocking/
++Completed 	 prakriyA/proofreading/completed/
++Editing 	 prakriyA/proofreading/editing/
++Git workflow (गिट्-कार्य-क्रमः) 	 prakriyA/git-workflow/
++Interleave translation 	 prakriyA/proofreading/editing/AI-prompt/interleave-translation/
++Markdown 	 prakriyA/proofreading/editing/markdown/
++mUla and En translation 	 prakriyA/proofreading/editing/AI-prompt/interleave-translation/mUla_and_En_translation/
++Offline editing 	 prakriyA/git-workflow/offline-editing/
++Online editing 	 prakriyA/git-workflow/online-editing/
++VsCode 	 prakriyA/git-workflow/vscode/
++आन्तरिकम् 	 
++चित्राणि 	 images/
++चित्राणि 	 prakriyA/git-workflow/images/
++चित्राणि 	 prakriyA/git-workflow/vscode/images/
++चित्राणि 	 prakriyA/proofreading/editing/AI-prompt/images/
++चित्राणि 	 prakriyA/proofreading/images/
++पाठशोधनम् 	 prakriyA/proofreading/
++प्रक्रिया 	 prakriyA/
++व्यवस्था 	 vyavasthA/
+1 Forking-repo 	 prakriyA/git-workflow/2_forking-repo/
+1 Misc account setup 	 private/1_misc_account_setup/
+19 ce kannada 	 prakriyA/proofreading/editing/AI-prompt/19ce-kannada/
+2 Getting files 	 prakriyA/git-workflow/offline-editing/2_getting_files/
+4 Sending pull-request 	 prakriyA/git-workflow/4_sending-pull-request/
+5 सूचित-दोष--परिहार-प्रतिवचन-प्रक्रिया 	 prakriyA/git-workflow/5_sUchita-doSha-parihAra-prativachane/
+6 Conflicts 	 prakriyA/git-workflow/6_conflicts/
+Adhyeta chandamama 	 prakriyA/proofreading/editing/AI-prompt/adhyeta-chandamama/
+AI help 	 prakriyA/proofreading/editing/AI-help/
+Apastamba dharma sUtra commentary 	 prakriyA/proofreading/completed/Apastamba-dharma-sUtra-commentary/
+Apastamba gRhya sUtra commentaries 	 prakriyA/proofreading/completed/Apastamba-gRhya-sUtra-commentaries/
+aShTAdhyAyI vAsu commentary 	 prakriyA/proofreading/completed/aShTAdhyAyi-vAsu-commentary/
+Bare Hyphenator 	 prakriyA/proofreading/editing/AI-prompt/bare-hyphenator/
+Bengali sanskrit english 	 prakriyA/proofreading/editing/AI-prompt/bengali-sanskrit-english/
+Book mailing letter 	 private/book-mailing-letter/
+Categories 	 categories/
+Check shifts 	 clocking/check-shifts/
+Checking diff 	 prakriyA/git-workflow/vscode/checking-diff/
+Clock setup 	 clocking/clock-setup/
+Computer 	 vyavasthA/computer/
+Connecteam 	 private/connecteam/
+Contrib & related 	 prakriyA/proofreading/contrib_related/
+En and Es translation addition 	 prakriyA/proofreading/editing/AI-prompt/interleave-translation/En_and_Es_translation_addition/
+Figures 	 prakriyA/proofreading/editing/markdown/figures/
+File Includes 	 prakriyA/proofreading/editing/markdown/file_includes/
+Footnotes 	 prakriyA/proofreading/editing/markdown/Footnotes/
+Generic markdownificaiton 	 prakriyA/proofreading/editing/AI-prompt/generic-markdownification/
+Insert above mUla 	 prakriyA/proofreading/editing/AI-prompt/interleave-translation/mUla_and_En_translation/Insert_above_mUla/
+Interleave transliteration 	 prakriyA/proofreading/editing/AI-prompt/interleave-transliteration/
+Interleaving commentary 	 prakriyA/proofreading/editing/markdown/Interleaving_commentary/
+Interleaving rectification 	 prakriyA/proofreading/editing/AI-prompt/interleaving-rectification/
+Language help 	 prakriyA/proofreading/editing/AI-prompt/language-help/
+Link migrator 	 prakriyA/link-migrator/
+mAdhyandina-shatapatha 	 prakriyA/proofreading/completed/mAdhyandina-shatapatha/
+mahAbhArata gItA press - present with audio 	 prakriyA/proofreading/completed/mbh-gItA-press_present-with-audio/
+maNipravALa, skt, kn 	 prakriyA/proofreading/editing/AI-prompt/interleave-translation/maNipravALa_skt_kn/
+Math 	 prakriyA/proofreading/editing/markdown/math/
+Message-response 	 prakriyA/git-workflow/message-response/
+mUla & commentary 	 prakriyA/proofreading/editing/AI-prompt/interleave-translation/mUla_commentary/
+mUla and OCR with commentary 	 prakriyA/proofreading/editing/AI-prompt/interleave-translation/mUla_and_OCR_with_commentary/
+mUla translation page layout 	 prakriyA/proofreading/editing/AI-prompt/interleave-translation/mUla_translation_page_layout/
+mUla, en translation, commentary 	 prakriyA/proofreading/editing/AI-prompt/interleave-translation/mUla_en_translation_commenta/
+Multi-script-proofreading 	 prakriyA/proofreading/editing/multi-script-proofreading/
+non detail, Terminal sandhi splitting 	 prakriyA/proofreading/editing/AI-prompt/interleave-translation/mUla_and_En_translation/non_detail_Terminal_sandhi_sp/
+Non-detail mUla 	 prakriyA/proofreading/editing/AI-prompt/interleave-translation/mUla_and_En_translation/Non-detail_mUla/
+non-detail mUla output 	 prakriyA/proofreading/editing/AI-prompt/interleave-translation/mUla_and_En_translation/non-detail_mUla_output/
+non-detail mUla, no hyphenator 	 prakriyA/proofreading/editing/AI-prompt/interleave-translation/mUla_and_En_translation/non-detail_mUla_no_hyphenator/
+Other Indic language markdown 	 prakriyA/proofreading/editing/AI-prompt/Other_Indic_language_markdown/
+pada-separation 	 prakriyA/proofreading/editing/pada-separation/
+Payment 	 private/payment/
+Preserving page numbers 	 prakriyA/proofreading/editing/markdown/Preserving_page_numbers/
+Privates 	 private/
+Quotes 	 prakriyA/proofreading/editing/markdown/Quotes/
+Sanskrit devanAgarI markdown 	 prakriyA/proofreading/editing/AI-prompt/Sanskrit_devanAgarI_markdown/
+Sanskrit Rejoiner 	 prakriyA/proofreading/editing/AI-prompt/sanskrit-rejoiner/
+Saving changes 	 prakriyA/git-workflow/offline-editing/4_saving-changes/
+Saving changes 	 prakriyA/git-workflow/online-editing/saving-changes/
+Shift Clock 	 clocking/clock/
+Spacing, paragraph-विवेकः 	 prakriyA/proofreading/editing/markdown/Spacing_paragraph-vivekaH/
+Syncing fork 	 prakriyA/git-workflow/online-editing/syncing_fork/
+Tables and charts 	 prakriyA/proofreading/editing/markdown/Tables_and_charts/
+Tags 	 tags/
+Tamil 	 prakriyA/proofreading/editing/tamil/
+Text commentary alignment 	 prakriyA/proofreading/editing/text-commentary-alignment/
+Transcription 	 prakriyA/proofreading/editing/AI-prompt/transcription/
+Understand or ask 	 prakriyA/proofreading/editing/understand_ask/
+Unstaging changes 	 prakriyA/git-workflow/vscode/unstaging-changes/
+vAkya translation 	 prakriyA/proofreading/editing/AI-prompt/vAkya-translation/
+उपसर्गार्थ-चन्द्रिका 	 prakriyA/proofreading/completed/upasargArtha-chandrikA/
+कार्यारम्भः Onboarding 	 vyavasthA/onboarding/
+तिलसी-कोश-शोधन-क्रिया 	 prakriyA/proofreading/completed/tulasI-kosha/
+पात्राणि 	 vyavasthA/roles/
+बोधायन-ब्रह्म-कर्म-समुच्चयः 	 prakriyA/proofreading/completed/bodhAyana-brahma-karma-samuchchayaH/
+विरामदिनानि (Obsolete) 	 private/holidays_obsolete/
+🥽🔦 	 search/
